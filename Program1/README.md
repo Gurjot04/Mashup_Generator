@@ -20,7 +20,7 @@ Singer Used: **Diljit Dosanjh**
 ## 📦 Installation
 
 ### 1️⃣ Install Required Libraries
-```bash
+
 pip install yt-dlp pydub moviepy
 
 ## 📸 Execution Screenshots
