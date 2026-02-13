@@ -22,3 +22,12 @@ Singer Used: **Diljit Dosanjh**
 ### 1️⃣ Install Required Libraries
 ```bash
 pip install yt-dlp pydub moviepy
+
+## 📸 Execution Screenshots
+
+### Command Line Execution
+<img width="2344" height="938" alt="image" src="https://github.com/user-attachments/assets/6e7d01bd-0c7b-4e7f-a2dc-84dc9041883e" />
+
+### Generated Output File
+<img width="2428" height="441" alt="image" src="https://github.com/user-attachments/assets/6a994aaf-1de1-4114-b3b1-b78ab1c66ec1" />
+
