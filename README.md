@@ -79,14 +79,15 @@ After submission, the system:
 
 # 📂 Repository Structure
 
-Mashup-Generator/
+Mashup_Generator/
 │
 ├── Program1/
-│ ├── <RollNumber>.py
-│ └── README.md
+│   ├── 102317269.py
+│   ├── README.md
 │
 ├── Program2/
-│ ├── app.py
-│ └── README.md
+│   ├── app.py
+│   ├── README.md
 │
 └── README.md
+
