@@ -15,7 +15,7 @@ The application:
 3. Compresses the output into a ZIP file
 4. Sends the ZIP file to the user via email
 
-Singer Tested: **Diljit Dosanjh**
+Singer Tested: **Sidhu Moosewala**
 
 ---
 
