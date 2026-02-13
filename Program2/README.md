@@ -30,6 +30,3 @@ Singer Tested: **Diljit Dosanjh**
 
 ---
 
-
-conda create -n mashup_env python=3.10
-conda activate mashup_env
